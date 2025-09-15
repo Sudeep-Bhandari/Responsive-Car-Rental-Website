@@ -7,7 +7,7 @@ This project showcases a modern front-end design for browsing and booking rental
 
 ## 🌐 Live Demo
 
-👉 [View Demo](https://your-username.github.io/Responsive-Car-Rental-Website/)  
+👉 [View Demo](https://sudeep-bhandari.github.io/Responsive-Car-Rental-Website/)  
 *(Replace with your actual GitHub Pages or Netlify link)*
 
 ---
